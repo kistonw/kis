@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: wzh2906@gmail.com
 description: " 人生如逆旅 我亦是行人."
 keyword: "kistonw, kistonw Blog, 十三的博客, 王增虎, 十三, wordpress, github, python"
-url: "http://kistonw.github.io"          # your host, for absolute URL
+url: "http://kis.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/kistonw/kistonw.github.io.git" # you code repository
+github_repo: "https://github.com/kistonw/kis.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
